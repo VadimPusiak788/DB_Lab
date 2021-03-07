@@ -9,5 +9,5 @@
   source env/bin/activate
   source .env
   python3 -m pip install -r requirements.txt
-  python3 main.py
+  python3 database.py
 ```
