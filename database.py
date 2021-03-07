@@ -152,8 +152,11 @@ def write_data():
     logs.info("Data write the result.csv")
 
 
-if __name__ == "__main__":
+def main():
     create_table()
     insert_data('data_files/Odata2019File.csv')
     insert_data('data_files/Odata2020File.csv')
     write_data()
+
+if __name__ == "__main__":
+    main()
