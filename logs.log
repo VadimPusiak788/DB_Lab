@@ -1,0 +1,8 @@
+03-07-2021 17:53:31 INFO  Start create table
+03-07-2021 17:53:55 INFO  Finish create table
+03-07-2021 17:53:55 INFO  Start insert data 2019
+03-07-2021 18:07:46 INFO  Finish insert data 2019
+03-07-2021 18:07:46 INFO  Start insert data 2020
+03-07-2021 18:25:43 INFO  Finish insert data 2020
+03-07-2021 18:25:44 INFO  Start select data
+03-07-2021 18:26:59 INFO  Data write the result.csv
