@@ -10,6 +10,9 @@
   source .env
   python3 -m pip install -r requirements.txt
 ```
-В папку `data_files` завантажити файли 
+В папку `data_files` завантажити файли вигляду `OdataXXXXFile.csv` де `XXXX` рік проходження ЗНО.
+І після цього виконати 
+`python3 database.py`
+
 
 
