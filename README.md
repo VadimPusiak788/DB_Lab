@@ -9,5 +9,7 @@
   source env/bin/activate
   source .env
   python3 -m pip install -r requirements.txt
-  python3 database.py
 ```
+В папку `data_files` завантажити файли 
+
+
