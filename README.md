@@ -6,4 +6,8 @@
 ```shell
   https://github.com/VadimPusiak788/DB_Lab.git
   python -m venv env
+  source env/bin/activate
+  source .env
+  python3 -m pip install -r requirements.txt
+  python3 main.py
 ```
